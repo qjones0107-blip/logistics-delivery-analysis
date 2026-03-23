@@ -1,0 +1,21 @@
+order_id,ship_date,delivery_date,region,carrier,delivery_status,shipping_cost,distance_miles
+1,2024-01-01,2024-01-03,East,FedEx,On Time,50,300
+2,2024-01-02,2024-01-06,West,UPS,Delayed,80,900
+3,2024-01-03,2024-01-04,South,DHL,On Time,40,200
+4,2024-01-04,2024-01-08,North,FedEx,Delayed,70,700
+5,2024-01-05,2024-01-06,East,UPS,On Time,55,350
+6,2024-01-06,2024-01-10,West,DHL,Delayed,90,1000
+7,2024-01-07,2024-01-08,South,FedEx,On Time,45,250
+8,2024-01-08,2024-01-12,North,UPS,Delayed,85,800
+9,2024-01-09,2024-01-10,East,DHL,On Time,60,400
+10,2024-01-10,2024-01-14,West,FedEx,Delayed,95,1100
+11,2024-01-11,2024-01-12,South,UPS,On Time,50,300
+12,2024-01-12,2024-01-16,North,DHL,Delayed,88,950
+13,2024-01-13,2024-01-14,East,FedEx,On Time,52,320
+14,2024-01-14,2024-01-18,West,UPS,Delayed,92,1050
+15,2024-01-15,2024-01-16,South,DHL,On Time,48,280
+16,2024-01-16,2024-01-20,North,FedEx,Delayed,75,850
+17,2024-01-17,2024-01-18,East,UPS,On Time,58,370
+18,2024-01-18,2024-01-22,West,DHL,Delayed,100,1200
+19,2024-01-19,2024-01-20,South,FedEx,On Time,46,260
+20,2024-01-20,2024-01-24,North,UPS,Delayed,90,980
