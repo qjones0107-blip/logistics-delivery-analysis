@@ -71,6 +71,5 @@ This project demonstrates how logistics data can be used to improve operational 
 
 ---
 
-## 👤 Author
-Quincy Jones  
-Aspiring Data Analyst | Python | Data Visualization
+## 👤 Quincy Jones — Data Analyst | Power BI | Business Intelligence | Operations
+🔗 LinkedIn | GitHub
